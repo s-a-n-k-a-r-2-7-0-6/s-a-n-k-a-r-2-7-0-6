@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @s-a-n-k-a-r-2-7-0-6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm Yadlapalli Sankar Sai Narayana 👋
 
-<!---
-s-a-n-k-a-r-2-7-0-6/s-a-n-k-a-r-2-7-0-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, full-stack development, and creating innovative solutions.
+
+- 🔭 I’m currently working on: **A comprehensive tutorial on text similarity metrics, including Jaccard Similarity and Cosine Similarity**
+- 🌱 I’m learning: **Advanced AI/ML techniques and social network analysis**
+- 👯 I’m looking to collaborate on: **Projects involving NLP, generative AI, and data science**
+- 💬 Ask me about: **NLP, Generative AI, LLMs, social network analysis, and full-stack development**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sankar2706)
+
+Check out some of my projects:
+
+- [Podcast-Relevant Segmentation System](https://github.com/s-a-n-k-a-r-2-7-0-6/podcast-segmentation): Developed a system from scratch using trial-and-error methods to segment podcast content based on relevance.
+- [Text Similarity Metrics Tutorial](https://github.com/s-a-n-k-a-r-2-7-0-6/text-similarity-tutorial): A tutorial focusing on various text similarity metrics, comparing manual ground truth with LLM-generated outputs.
+- [NLP and Generative AI Models](https://github.com/s-a-n-k-a-r-2-7-0-6/nlp-generative-ai): Projects and experiments related to natural language processing and generative AI models, leveraging my internship experience at NIT Calicut.
+
+Thanks for stopping by!
