@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, and creating innovative solutions.
 
-- 🔭 I’m currently working on: **I am currently working on deploying and managing multi-region, highly available AWS infrastructure.**
+- 🔭 I’m currently working on: **AWS infrastructure.**
 - 🌱 I’m learning: **Advanced AI/ML techniques**
 - 👯 I’m looking to collaborate on: **Projects involving NLP, generative AI, and data science**
 - 💬 Ask me about: **NLP, Generative AI, LLMs, Machine Learning,Deep Learning,Software Development,Django,Python Programming**
