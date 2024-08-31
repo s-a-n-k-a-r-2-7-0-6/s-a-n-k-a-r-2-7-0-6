@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/s-a-n-k-a-r-2-7-0-6](https://github.com/s-a-n-k-a-r-2-7-0-6)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about **Machine Learning,Deep Learning,NLP,Generative AI**
 
 - 📫 How to reach me 
 
