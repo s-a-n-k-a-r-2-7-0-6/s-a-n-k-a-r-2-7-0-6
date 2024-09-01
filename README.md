@@ -1,29 +1,19 @@
-<h1 align="center">Hey Everyone 👋, I'm Yadlapalli Sankar Sai Narayana</h1>
+# Hello, I'm Yadlapalli Sankar Sai Narayana 👋
 
-<h3 align="center">A passionate Data Scientist From India. </h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, and creating innovative solutions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-a-n-k-a-r-2-7-0-6&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-n-k-a-r-2-7-0-6" /> </p>
+- 🔭 I’m currently working on: **AWS infrastructure.**
+- 🌱 I’m learning: **Advanced AI/ML techniques**
+- 👯 I’m looking to collaborate on: **Projects involving NLP, generative AI, and data science**
+- 💬 Ask me about: **NLP, Generative AI, LLMs, Machine Learning,Deep Learning,Software Development,Django,Python Programming**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sankar-sai-narayana-yadlapalli/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/s-a-n-k-a-r-2-7-0-6](https://github.com/s-a-n-k-a-r-2-7-0-6)
+Check out some of my projects:
 
-- 💬 Ask me about **Machine Learning,Deep Learning,NLP,Generative AI**
+- [Podcast-Relevant Segmentation System]([https://github.com/s-a-n-k-a-r-2-7-0-6/podcast-segmentation]):In my podcast-relevant segmentation project, I developed a system designed to automatically identify and segment casual conversations within podcast episodes. The primary focus was to distinguish between formal content and more relaxed, off-the-cuff discussions, allowing for better content categorization and targeted analysis. By implementing advanced NLP techniques, I was able to accurately detect and segment these casual conversations, making it easier to analyze and utilize the informal segments of the podcast. This project was crucial for improving the understanding of content dynamics and enhancing user engagement with podcast material.
+- [Local RAG(Retrieval Augumented Generation](https://github.com/s-a-n-k-a-r-2-7-0-6/Local-RAG-Retrieval-Augmented-Generation-):In my Local RAG project, I developed a system using the GEMMA 7B model to enhance retrieval and generation processes for more contextually relevant information. By integrating retrieval mechanisms with advanced LLMs, I significantly improved the accuracy and relevance of the generated responses. This project showcases my ability to innovate by combining retrieval-based techniques with generative models in the field of AI.In this project i have added the options in the users point of view as known my lappy could not handle the large pretrained model i have used smaller ones.
+- [LLM Projects](https://github.com/s-a-n-k-a-r-2-7-0-6/LLM-Projects):**• Implemented PDFQuery System Using Gemini:** Developed an PDF reader system utilizing Gemini,where users provide a PDF as input. The
+ system leverages Gemini to understand and process the PDF content,enabling users to query specific information and receive accurate answers
+ based on the document’s content.
 
-- 📫 How to reach me 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-
-  
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-n-k-a-r-2-7-0-6&show_icons=true&locale=en&layout=compact" alt="s-a-n-k-a-r-2-7-0-6" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-a-n-k-a-r-2-7-0-6&show_icons=true&locale=en" alt="s-a-n-k-a-r-2-7-0-6" /></p>
-
-<p><img align="center" src="https://github-readme-streak
+Thanks for stopping by!
