@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, a
 - 🌱 I’m learning: **Advanced AI/ML techniques**
 - 👯 I’m looking to collaborate on: **Projects involving NLP, generative AI, and data science**
 - 💬 Ask me about: **NLP, Generative AI, LLMs, Machine Learning,Deep Learning,Software Development,Django,Python Programming**
-- 📫 How to reach me: # [LinkedIn](https://www.linkedin.com/in/sankar-sai-narayana-yadlapalli/)
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/sankar-sai-narayana-yadlapalli/)
 
 Check out some of my projects:
 # Projects
