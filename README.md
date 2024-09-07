@@ -19,11 +19,6 @@ In this project, I developed a system to automatically identify and segment casu
 
 This project involves creating a system using the GEMMA 7B model to improve retrieval and generation processes. The integration of retrieval mechanisms with advanced LLMs enhances the accuracy and relevance of generated responses. Due to hardware limitations, I utilized smaller pre-trained models for user interactions, demonstrating my ability to innovate with AI techniques.
 
-## [LLM Projects](https://github.com/s-a-n-k-a-r-2-7-0-6/LLM-Projects)
-
-### PDFQuery System Using Gemini
-
-Developed a PDF reader system that uses Gemini to process and understand PDF content. Users can query specific information within a PDF and receive accurate responses based on the document’s content.
 
 ## [Data Analysis: Sales Insights](https://github.com/s-a-n-k-a-r-2-7-0-6/DATA-ANALYSIS-SALES-INSIGHTS)
 
