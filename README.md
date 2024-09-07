@@ -32,5 +32,7 @@ Developed a finance dashboard to track and analyze savings and expenditure over 
 # 📊 GitHub Stats:
 
 ![Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-a-n-k-a-r-2-7-0-6&theme=flag-india&show_icons=true&count_private=true)
-Thanks for stopping by!
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=s-a-n-k-a-r-2-7-0-6&theme=flag-india&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 
