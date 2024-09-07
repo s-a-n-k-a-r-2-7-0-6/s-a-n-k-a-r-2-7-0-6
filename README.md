@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, a
 - 🌱 I’m learning: **Advanced AI/ML techniques**
 - 👯 I’m looking to collaborate on: **Projects involving NLP, generative AI, and data science**
 - 💬 Ask me about: **NLP, Generative AI, LLMs, Machine Learning,Deep Learning,Software Development,Django,Python Programming**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sankar-sai-narayana-yadlapalli/)
+- 📫 How to reach me: ##[LinkedIn](https://www.linkedin.com/in/sankar-sai-narayana-yadlapalli/)
 
 Check out some of my projects:
 # Projects
@@ -23,6 +23,10 @@ This project involves creating a system using the GEMMA 7B model to improve retr
 ## [Data Analysis: Sales Insights](https://github.com/s-a-n-k-a-r-2-7-0-6/DATA-ANALYSIS-SALES-INSIGHTS)
 
 This project involves analyzing sales data with MySQL and visualizing insights with Power BI. The process includes data cleaning and querying to uncover trends in customer transactions, revenue, and market performance. Interactive dashboards in Power BI provide visual insights that support strategic decision-making based on key sales metrics.
+
+## [Personal Finance Analysis](https://github.com/s-a-n-k-a-r-2-7-0-6/personal-analysis/tree/main)
+
+Developed a finance dashboard to track and analyze savings and expenditure over the past three years. It features interactive visualizations that reveal trends in savings, detailed expenditure breakdowns, and monthly and yearly financial summaries. The dashboard aids in effective financial management and decision-making through comprehensive data insights.
 
 ---
 
