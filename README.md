@@ -37,6 +37,6 @@ Developed a finance dashboard to track and analyze savings and expenditure over 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-a-n-k-a-r-2-7-0-6&theme=flag-india&include_all_commits=true&count_private=true&layout=compact)](https://github.com/s-a-n-k-a-r-2-7-0-6/github-readme-stats)
 
-### ✍️ Random Dev Quote
+### Thanks for stopping.....
 
 
