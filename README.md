@@ -29,6 +29,8 @@ This project involves analyzing sales data with MySQL and visualizing insights w
 Developed a finance dashboard to track and analyze savings and expenditure over the past three years. It features interactive visualizations that reveal trends in savings, detailed expenditure breakdowns, and monthly and yearly financial summaries. The dashboard aids in effective financial management and decision-making through comprehensive data insights.
 
 ---
+# 📊 GitHub Stats:
 
+![Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-a-n-k-a-r-2-7-0-6&theme=flag-india&show_icons=true&count_private=true)
 Thanks for stopping by!
 
