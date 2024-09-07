@@ -9,11 +9,27 @@ Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, a
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sankar-sai-narayana-yadlapalli/)
 
 Check out some of my projects:
+# Projects
 
-- [Podcast-Relevant Segmentation System](https://github.com/s-a-n-k-a-r-2-7-0-6/podcast-segmentation):In my podcast-relevant segmentation project, I developed a system designed to automatically identify and segment casual conversations within podcast episodes. The primary focus was to distinguish between formal content and more relaxed, off-the-cuff discussions, allowing for better content categorization and targeted analysis. By implementing advanced NLP techniques, I was able to accurately detect and segment these casual conversations, making it easier to analyze and utilize the informal segments of the podcast. This project was crucial for improving the understanding of content dynamics and enhancing user engagement with podcast material.
-- [Local RAG(Retrieval Augumented Generation](https://github.com/s-a-n-k-a-r-2-7-0-6/Local-RAG-Retrieval-Augmented-Generation-):In my Local RAG project, I developed a system using the GEMMA 7B model to enhance retrieval and generation processes for more contextually relevant information. By integrating retrieval mechanisms with advanced LLMs, I significantly improved the accuracy and relevance of the generated responses. This project showcases my ability to innovate by combining retrieval-based techniques with generative models in the field of AI.In this project i have added the options in the users point of view as known my lappy could not handle the large pretrained model i have used smaller ones.
-- [LLM Projects](https://github.com/s-a-n-k-a-r-2-7-0-6/LLM-Projects):**• Implemented PDFQuery System Using Gemini:** Developed an PDF reader system utilizing Gemini,where users provide a PDF as input. The
- system leverages Gemini to understand and process the PDF content,enabling users to query specific information and receive accurate answers
- based on the document’s content.
-- [Data Analysis: Sales Insights](https://github.com/s-a-n-k-a-r-2-7-0-6/DATA-ANALYSIS-SALES-INSIGHTS):**This project involves analyzing sales data using MySQL for querying and Power BI for visualization. The data is cleaned and processed to generate insights on customer transactions, total revenue, and market performance. SQL queries help uncover trends, while Power BI dashboards provide interactive visual insights. The analysis aids in strategic decision-making based on key sales metrics.
+## [Podcast-Relevant Segmentation System](https://github.com/s-a-n-k-a-r-2-7-0-6/podcast-segmentation)
+
+In this project, I developed a system to automatically identify and segment casual conversations within podcast episodes. The focus was on distinguishing formal content from more relaxed discussions, enabling better content categorization and targeted analysis. By employing advanced NLP techniques, the system accurately detects and segments informal segments, enhancing the understanding of content dynamics and user engagement with podcasts.
+
+## [Local RAG (Retrieval Augmented Generation)](https://github.com/s-a-n-k-a-r-2-7-0-6/Local-RAG-Retrieval-Augmented-Generation-)
+
+This project involves creating a system using the GEMMA 7B model to improve retrieval and generation processes. The integration of retrieval mechanisms with advanced LLMs enhances the accuracy and relevance of generated responses. Due to hardware limitations, I utilized smaller pre-trained models for user interactions, demonstrating my ability to innovate with AI techniques.
+
+## [LLM Projects](https://github.com/s-a-n-k-a-r-2-7-0-6/LLM-Projects)
+
+### PDFQuery System Using Gemini
+
+Developed a PDF reader system that uses Gemini to process and understand PDF content. Users can query specific information within a PDF and receive accurate responses based on the document’s content.
+
+## [Data Analysis: Sales Insights](https://github.com/s-a-n-k-a-r-2-7-0-6/DATA-ANALYSIS-SALES-INSIGHTS)
+
+This project involves analyzing sales data with MySQL and visualizing insights with Power BI. The process includes data cleaning and querying to uncover trends in customer transactions, revenue, and market performance. Interactive dashboards in Power BI provide visual insights that support strategic decision-making based on key sales metrics.
+
+---
+
 Thanks for stopping by!
+
