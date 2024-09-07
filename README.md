@@ -15,5 +15,5 @@ Check out some of my projects:
 - [LLM Projects](https://github.com/s-a-n-k-a-r-2-7-0-6/LLM-Projects):**• Implemented PDFQuery System Using Gemini:** Developed an PDF reader system utilizing Gemini,where users provide a PDF as input. The
  system leverages Gemini to understand and process the PDF content,enabling users to query specific information and receive accurate answers
  based on the document’s content.
-
+- [Data Analysis: Sales Insights](https://github.com/s-a-n-k-a-r-2-7-0-6/DATA-ANALYSIS-SALES-INSIGHTS):**This project involves analyzing sales data using MySQL for querying and Power BI for visualization. The data is cleaned and processed to generate insights on customer transactions, total revenue, and market performance. SQL queries help uncover trends, while Power BI dashboards provide interactive visual insights. The analysis aids in strategic decision-making based on key sales metrics.
 Thanks for stopping by!
