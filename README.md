@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, a
 Check out some of my projects:
 # Projects
 
-## [Podcast-Relevant Segmentation System](https://github.com/s-a-n-k-a-r-2-7-0-6/podcast-segmentation)
+## [Podcast-Relevant Segmentation System](https://github.com/joecheriross/podcast-relevant-segment)
 
 In this project, I developed a system to automatically identify and segment casual conversations within podcast episodes. The focus was on distinguishing formal content from more relaxed discussions, enabling better content categorization and targeted analysis. By employing advanced NLP techniques, the system accurately detects and segments informal segments, enhancing the understanding of content dynamics and user engagement with podcasts.
 
