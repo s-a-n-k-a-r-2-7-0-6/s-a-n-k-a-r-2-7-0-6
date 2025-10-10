@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, and creating innovative solutions.
 
-- 🔭 I’m currently working on: **AWS infrastructure.**
+- Certified Kubernetes Administrator (CKA-Linux Foundation)
+- 🔭 I’m currently working on: **Model Context Protocol.**
 - 🌱 I’m learning: **Advanced AI/ML techniques**
 - 👯 I’m looking to collaborate on: **Projects involving NLP, generative AI, and data science**
 - 💬 Ask me about: **NLP, Generative AI, LLMs, Machine Learning,Deep Learning,Software Development,Django,Python Programming**
