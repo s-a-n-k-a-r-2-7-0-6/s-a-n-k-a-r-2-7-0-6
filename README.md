@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about ML/AI, a
 - Certified Kubernetes Administrator (CKA-Linux Foundation)
 - 🔭 I’m currently working on: **Model Context Protocol.**
 - 🌱 I’m learning: **Advanced AI/ML techniques**
-- 👯 I’m looking to collaborate on: **Projects involving NLP, generative AI, and data science**
+- 👯 I’m looking to collaborate on: **Projects involving NLP, generative AI, AIOps**
 - 💬 Ask me about: **NLP, Generative AI, LLMs, Machine Learning,Deep Learning,Software Development,Django,Python Programming**
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/sankar-sai-narayana-yadlapalli/)
 
